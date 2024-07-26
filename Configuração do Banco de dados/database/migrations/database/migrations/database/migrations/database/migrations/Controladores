@@ -1,0 +1,4 @@
+php artisan make:controller ProductController
+php artisan make:controller CartController
+php artisan make:controller OrderController
+php artisan make:controller PaymentController
